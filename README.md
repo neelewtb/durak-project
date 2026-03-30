@@ -30,4 +30,4 @@ if one beats all, the defender starts attacking in the next round
 - lay a card: enter a card in the format (6, Karo) or copy them from the terminal
 - push a card: type PUSH, add a blank space and then enter a card in the format described as above
 - take the cards: type XXX 
-- if you are the defender and have to defeat multiple cards, start teh defeat at the last added card 
+- if you are the defender and have to defeat multiple cards, start the defeat at the last added card 
