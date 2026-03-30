@@ -18,13 +18,13 @@ author: Neele Witschenbach
 *next* to the other, in this case the defender becomes the attacker
 - one can only push if this is the first move, once you defeat one card you can't push another one you've been attacked 
 with
-- the attacker can add any card with the same value (as long as the stack exist, there can be five attacks, if there
-- is no stack anymore the attacker can lay as many cards as the defender has on hand)
+- the attacker can add any card with the same value (as long as the stack exist, there can be five attacks, 
+if there is no stack anymore the attacker can lay as many cards as the defender has on hand)
 - if all cards are beat, they get laid to the side and both players pull cards to have six on hand again, attacker gets
-- to be first (original triumph card also gets pulled in the end)
-- if one cannot beat all cards, they have to take ALL of them and the attacker attacks again, if one beats all,
-- the defender starts attacking in the next round
-- this goes on until one lays their last card, which menas they've won
+to be first (original triumph card also gets pulled in the end)
+- if one cannot beat all cards, they have to take ALL of them and the attacker attacks again,
+if one beats all, the defender starts attacking in the next round
+- this goes on until one lays their last card, which means they've won
 
 ## How to use the code
 - lay a card: enter a card in the format (6, Karo) or copy them from the terminal
