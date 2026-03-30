@@ -1,9 +1,6 @@
-
-def main():
-    print('Welcome to Durak')
+from durak.game import *
 
 if __name__ == "__main__":
-    main()
-
-
+    print("main ab hier")
+    exec_game()
 
