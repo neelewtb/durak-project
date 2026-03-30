@@ -1,0 +1,9 @@
+pyproject.toml
+durak/__init__.py
+durak/__main__.py
+durak/game.py
+durak.egg-info/PKG-INFO
+durak.egg-info/SOURCES.txt
+durak.egg-info/dependency_links.txt
+durak.egg-info/entry_points.txt
+durak.egg-info/top_level.txt

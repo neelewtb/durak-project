@@ -1,0 +1,2 @@
+[console_scripts]
+durak = durak.__main__:main
